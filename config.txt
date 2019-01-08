@@ -1,0 +1,6 @@
+owner=444390555473149953
+prefix= M
+game= Type M help
+stayinchannel=true
+songinstatus=true 
+token=NTMxODc0NjY4NTc1OTgxNTY5.DxUSpg.2GOSVfKszgcQ1-Fy82cSDLIYJrM
