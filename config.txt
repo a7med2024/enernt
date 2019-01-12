@@ -3,4 +3,4 @@ prefix= E
 game= Type E help
 stayinchannel=true
 songinstatus=true 
-token=NTMxODM5MTM3OTAxMTgyOTg4.DxkDZg.ZvA47RBROonDTAmCCJoDsEidTfY
+token=NTMyMjM4MTU4MzQ4Mjg4MDMy.Dxtzhg.QXG1GWczaZyaXfSQYL39BtUKQmo
