@@ -1,5 +1,6 @@
 owner=514041065041297421
-prefix= !
+prefix= E
+game= Type E help
 stayinchannel=true
 songinstatus=true 
 token=NTMxODM5MTM3OTAxMTgyOTg4.DxkDZg.ZvA47RBROonDTAmCCJoDsEidTfY
